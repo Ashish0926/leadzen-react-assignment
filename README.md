@@ -4,6 +4,13 @@
 
 
 
+## Tech Stack
+
+- Technologies - ReactJS, TailwindCSS, NodeJs, API, Vite
+- NPM Packages - Axios, Tailwind, DaisyUI,
+
+
+
 ## Run Locally
 
 Clone the project
@@ -34,6 +41,6 @@ Start the server
 ## Deployment
 
 ```bash
-  https://leadzen-react-assignment.netlify.app/
+  https://leadzen-ashish.netlify.app/
 ```
 
