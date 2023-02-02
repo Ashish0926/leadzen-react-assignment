@@ -10,7 +10,7 @@ const Pagination = ({ postPerPage, totalPosts, paginate }) => {
     <div className="text-center">
       {pageNumber.map((number) => {
         return (
-          <div className="btn-group">
+          <div key={number} className="btn-group">
             <button
               onClick={() => {
                 paginate(number);

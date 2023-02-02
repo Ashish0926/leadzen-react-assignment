@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Card = (data) => {
-  console.log(data);
+  // console.log(data);
   const [isExpanded, setIsExpanded] = useState(false);
   const [btnText, setBtnText] = useState("View Details");
   return (
