@@ -41,6 +41,6 @@ Start the server
 ## Deployment
 
 ```bash
-  https://leadzen-ashish.netlify.app/
+  https://leadzen-react-assignment.netlify.app/
 ```
 
